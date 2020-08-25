@@ -22,7 +22,7 @@ The following files and folders enable our continuous integration system.
 
 This repository should be cloned into the src directory of a catkin workspace. Use ```catkin_make``` in the workspace directory to build the code. (NOTE: Be sure to ```source devel/setup.sh``` before referencing roboracing packages.)
 
-For a guide on installing our code please go to [our guide](https://wiki.robojackets.org/RoboRacing_Software_Installation_Instructions).
+For a guide on installing our code please go to [our guide](https://google.com).
 
 ## Simulation
 
