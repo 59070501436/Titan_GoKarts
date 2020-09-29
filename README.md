@@ -1,4 +1,5 @@
 # Titan_Gokarts
+![116791512_293918305387415_3230688594501547391_n](https://user-images.githubusercontent.com/32351379/91266913-67c37a80-e79c-11ea-9663-2699fb9c1de1.jpg)
 
 Welcome to the [Cosin lab](https://inc.kmutt.ac.th/~yoodyui/Clips/index.html) RoboRacing software repository! This document will give you a brief outline of the repository's layout and some simple instructions for setting up the project. For more detailed information, please visit the [wiki](https://inc.kmutt.ac.th/~yoodyui/Clips/index.html).
 
